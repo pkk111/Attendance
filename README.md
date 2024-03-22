@@ -1,2 +1,2 @@
-# Attendance
-# Attendance
+# Privacy Policy
+This is to notify that the Android Application Attendance doesn't not collect or store any information related to the device. It is an offline applicaiton with very basic functionality and therefore works without internet without sharing any data outside device.
